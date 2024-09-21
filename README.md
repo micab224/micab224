@@ -9,7 +9,7 @@ Unos datitos sobre mi 🤓:
 - 😄 Mis pronombre son she/her (ella).
 
 -------------------------------------------------------------------------------------------------------------------------------
-¡Hi! My name is Micaela Barattini, I am a Programmer analysts student at ORT University.
+Hi! My name is Micaela Barattini, I am a Programmer analysts student at ORT University.
 
 Some facts about me 🤓:
 
